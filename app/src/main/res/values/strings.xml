@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Cell Monitor</string>
+
+    <string name="label_current_state">Current state:</string>
+
+    <string name="monitoring_unknown">Monitoring disconnected</string>
+    <string name="monitoring_enabled">Monitoring enabled</string>
+    <string name="monitoring_disabled">Monitoring disabled</string>
+
+    <string name="label_current_tower">Cell tower ID:</string>
+    <string name="tower_unknown">Unknown tower</string>
+
+    <string name="label_current_network">Current network:</string>
+    <string name="network_unknown">Unknown network</string>
+
+    <string name="label_current_data_connection">Data connection:</string>
+    <string name="data_connection_unknown">Unknown data connection</string>
+
+    <string name="label_current_location">Location:</string>
+    <string name="location_unknown">Unknown location</string>
+
+    <string name="label_log_heading">Event log</string>
+
+    <string name="toggle_btn_monitoring_enabled">Disable</string>
+    <string name="toggle_btn_monitoring_disabled">Enable</string>
+
+    <string name="menu_clear_view">Clear view</string>
+    <string name="menu_enable">Enable tracking</string>
+    <string name="menu_disable">Disable tracking</string>
+    <string name="menu_export_logfile">Export log file...</string>
+    <string name="menu_locate_logfile">Show log location...</string>
+    <string name="menu_erase_logfile">Erase log file</string>
+    <string name="menu_give_feedback">Leave feedback...</string>
+
+    <string name="email_logfile_subject">Cell Monitor log file</string>
+    <string name="email_logfile_text">Please find attached a Cell Monitor log file for my device.</string>
+    <string name="email_logfile_chooser_text">Send logfile to...</string>
+
+    <string name="feedback_request_title">Feedback request</string>
+    <string name="feedback_request_message">
+        Thank you for using Cell Monitor.
+        If you have feedback, positive or negative, please spare a moment to leave it at the Play Store.
+    </string>
+
+</resources>
